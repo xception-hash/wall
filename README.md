@@ -11,4 +11,4 @@ python wallpaper.py [0|1]
  
 if the argument is not provided then it chooses randomly
 
-[wallpaper.exe](https://github.com/xception-hash/wall/blob/master/wallpaper.py) is an executable file which you can use.
+[wallpaper.exe](https://github.com/xception-hash/wall/blob/master/wallpaper.exe) is an executable file which you can use.
